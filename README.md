@@ -1,3 +1,3 @@
 # Coderhouse_Desafios
 
-## Repositório para disponibilização das entregas de desafios da Coderhouse.
+Repositório para disponibilização das entregas de desafios da Coderhouse.
